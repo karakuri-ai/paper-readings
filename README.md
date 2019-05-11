@@ -1,10 +1,10 @@
 # KARAKURI paper-readings
+![karakuri_logo.png](./karakuri_logo.png)
 
 読んだ論文をまとめるリポジトリです。
 
 機械学習、特に自然言語処理,情報検索関係が多めです。
 
-#### HP
 <a href="https://karakuri.ai/">KARAKURI (カラクリ) | カスタマーサポート特化型AI搭載チャットボット</a>
 
 ## 注意
