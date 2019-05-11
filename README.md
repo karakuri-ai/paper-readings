@@ -5,7 +5,7 @@
 
 機械学習、特に自然言語処理,情報検索関係が多めです。
 
-<a href="https://karakuri.ai/">KARAKURI (カラクリ) | カスタマーサポート特化型AI搭載チャットボット</a>
+<a href="https://karakuri.ai/">KARAKURI (カラクリ) | カスタマーサポート特化型 AIチャットボット</a>
 
 ## 注意
 skimタグがついたものは流し読みした論文です。
