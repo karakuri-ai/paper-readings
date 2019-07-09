@@ -10,7 +10,12 @@
 ## 注意
 skimタグがついたものは流し読みした論文です。
 
-## 参考になるページ
+## 参考ページ
+#### arXivTimes
+- https://github.com/arXivTimes/arXivTimes
+- githubで機械学習関連の論文をまとめて下さっているリポジトリ
+- 多くの部分で参考にさせて頂いています
+
 #### Browse state-of-the-art
 - https://paperswithcode.com/area/natural-language-processing
 - 各種SOTAがまとまっているサイト
